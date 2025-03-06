@@ -22,5 +22,5 @@
 <li><a target="_blank" href="https://github.com/Joannetang07/urban-health-and-green-space">Urban Green Spaces and Health - Data Visualization and Analysis</a></li>
 <li><a target="_blank" href="https://github.com/Joannetang07/html-website-development">HTML Website Development (HTML, CSS, Javascript)</a></li>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/shiyunta/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.dribbble.com/https://dribbble.com/joannetang07" style="display: inline-block;"><img src="https://img.shields.io/badge/dribbble-logo?style=for-the-badge&logo=dribbble&logoColor=white&color=%23ea64d9" alt="dribbble" /></a></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/shiyunta/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://dribbble.com/joannetang07" style="display: inline-block;"><img src="https://img.shields.io/badge/dribbble-logo?style=for-the-badge&logo=dribbble&logoColor=white&color=%23ea64d9" alt="dribbble" /></a></p>

@@ -15,7 +15,7 @@
 <a target="_blank" href="https://download.blender.org/branding/community/blender_community_badge_white.svg" style="display: inline-block;"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a></p>
-<h2>✒️ Recent Posts</h2>
+<h2>✒️ Recent Projects</h2>
 <ul>
 <li><a target="_blank" href="https://github.com/zxxwxyyy/VAHA">VAHA - Generative AI Model for Emotional Detection and Artwork Creation</a></li>
 <li><a target="_blank" href="https://github.com/Joannetang07/p5-js-web-game">Snack Catching Web Game</a></li>
